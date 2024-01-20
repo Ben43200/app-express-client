@@ -1,6 +1,6 @@
-import React, {useEffect, useState} from 'react'
-import  {disableReactDevTools} from "@fvilers/disable-react-devtools"
-if (process.env.NODE_ENV === 'production') disableReactDevTools()
+// import React, {useEffect, useState} from 'react'
+// import  {disableReactDevTools} from "@fvilers/disable-react-devtools"
+// if (process.env.NODE_ENV === 'production') disableReactDevTools()
 
 function App() {
 
